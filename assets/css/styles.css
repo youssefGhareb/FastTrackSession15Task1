@@ -1,0 +1,55 @@
+.movies h1 {
+  margin-top: 40px;
+}
+.movies .stats {
+  margin-top: 20px;
+  padding: 15px 20px;
+  border: 1px solid #efefef;
+}
+.movies .stats-header {
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+}
+.movies .stats-item {
+  margin-top: 15px;
+}
+.movies .stats-item span {
+  font-weight: bold;
+}
+.movies-data {
+  margin-top: 50px;
+}
+.movies-data-movie-imgCont {
+  width: 100%;
+}
+.movies-data-movie-imgCont img {
+  width: 100%;
+}
+.movies-data-movie-body {
+  padding: 20px 40px;
+  border: 1px solid #efefef;
+}
+.movies-data-movie-body-title {
+  text-align: center;
+  height: 65px;
+}
+.movies-data-movie-body-rating {
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.movies-pagination {
+  margin: 30px 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.movie-title {
+  margin-bottom: 40px;
+}
+.movie-rating {
+  margin-bottom: 40px;
+}/*# sourceMappingURL=styles.css.map */
